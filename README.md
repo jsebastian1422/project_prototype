@@ -1,6 +1,5 @@
 # Prototipo Proyecto de Grado
 ## Grupo de Desarrollo 202016907_22
-[TOCM]
 
 
 ### Link Video Sustentación 
