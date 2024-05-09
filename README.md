@@ -52,7 +52,7 @@ En caso de que un usuario registrado olvide su contraseña, el sistema le permiti
 
 #### Selección de Perfil
 
-Dependiendo del perfil del usuario se mostrara una de las siguientes opciones, las cuales determinan si el usuario es **Aprendiz** o **Tutor**.
+Dependiendo del perfil del usuario se mostrara una de las siguientes opciones, las cuales determinan si el usuario es **Aprendiz** o **Tutor** y ser identificado por medio de su documento.
 
 ![](assets/images/select_profile_view.png)
 
