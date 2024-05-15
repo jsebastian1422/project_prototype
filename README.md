@@ -116,6 +116,27 @@ En esta pantalla el tutor, tendrá la opción de observar el progreso de cada ap
 
 ![](assets/images/student_progress_view.png)
 
+#### Apartado de Soporte Técnico
+
+En esta primera pantalla, es usuario encontrala los canales de ayuda disponibles para brindar mantenimiento óptimo sobre la aplicación y reporte de errores, así como la opción de ajustar las preferencias de usuario
+
+![](assets/images/techsupport_view.png)
+
+#### Formulario de Reporte de Bugs 
+
+Dicho formulario procederá a ser llenado para brindarle retroalimentación a los desarrolladores sobre los errores o fallas que ocurren en el aplicativo
+![](assets/images/reportbugs_view.png)
+
+Al llenar el formulario compartiendo los detalles del error, procederemos a dar clic en el botón enviar y la opción para recibir o no un reporte sobre dicha novedad, apareciendo en pantalla en siguiente mensaje.
+
+![](assets/images/reportalert_view.png)
+
+#### Servicio Soporte Técnico 
+
+Al dar clic en la opción para iniciar videollamada con un técnico, llevará a esta pantalla donde podremos compartir pantalla y hablar con el asesor de soporte para darle solución o escalar el error en el aplicativo
+
+![](assets/images/videocall_view.png)
+
 ### Diagramas de Flujo Sistema
 
 #### Diagrama Gestión Usuarios
